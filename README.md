@@ -21,6 +21,7 @@ In this project, we examined Amazon reviews of Digital Video Games, using Pyspar
     
    ![Non-Vine_Reviews](https://user-images.githubusercontent.com/84881187/134437155-0b348441-6246-4dd9-b8d5-ebdb35447906.PNG)
    ![5-Star_Reviews](https://user-images.githubusercontent.com/84881187/134437158-7f026700-358f-43ae-b4a2-0dbcb3465251.PNG)
+![Vine_Reviews](https://user-images.githubusercontent.com/84881187/134455253-f150dbcd-fc79-4410-9c34-39c07c1d7df9.PNG)
 
 *What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 * Out of all of the reviews of Digital Video Games, about 37.45% of them had a 5-Star rating. Since all of our reviews are non-Vine, the total non-Vine reviews that are 5-Stars are also 37.45%. Out of 5-Star Reviews 40.48% of the reviews were Paid Reviews, and 34.50% were Unpaid reviews.
