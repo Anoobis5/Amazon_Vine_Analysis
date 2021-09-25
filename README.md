@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, we examined Amazon reviews of Musical Instruments, using Pyspark to perform ETL processes. We extracted the data, transformed the data, and connected it to the RDS Database generated through the AWS server service. Using the review, we aim to determine if there is bias among the reviews from Vine members. 
+In this project, we examined Amazon reviews of Musical Instruments, using Pyspark to perform ETL processes. We extracted the data, transformed the data, and connected it to the RDS Database generated through the AWS server service. Using our analysis of the reviews, we aim to determine if there is bias among the reviews from Vine members. 
 
 
 ## Results
